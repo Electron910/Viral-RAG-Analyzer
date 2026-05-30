@@ -1,0 +1,22 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+transformers
+
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+sentence-transformers
+youtube-transcript-api
+google-api-python-client
+yt-dlp
+faster-whisper
+instaloader
+python-dotenv
+httpx
+langchain-classic
+langchain-text-splitters
+pysqlite3-binary; sys_platform == "linux"
