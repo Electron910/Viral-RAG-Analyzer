@@ -1,3 +1,12 @@
+---
+title: Viral RAG Chatbot
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # 🚀 Viral RAG Chatbot (The Optimizer)
 
 An intelligent Retrieval-Augmented Generation (RAG) chatbot that allows you to compare, analyze, and deconstruct the success of viral YouTube and Instagram videos.
